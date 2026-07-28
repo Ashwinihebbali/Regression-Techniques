@@ -4,7 +4,7 @@
 
 A comprehensive, interactive guide to understanding and implementing various regression techniques in Machine Learning.
 
-## 🔍 What is Regression?
+## 🔍 What is Regression? 
 
 Regression is a supervised machine learning technique used to model the relationship between independent variables (features) and a continuous dependent variable (target).
 
